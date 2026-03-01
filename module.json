@@ -1,0 +1,32 @@
+{
+  "id": "serpmarina-tweaks",
+  "title": "serpmarina tweaks",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "serpmarina_tweaks",
+      "label": "serpmarina tweaks",
+      "path": "packs/serpmarina_tweaks",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "serpmarina",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
